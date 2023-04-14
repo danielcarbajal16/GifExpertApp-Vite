@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en GifGridItem Debe de hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="FC Barcelona"
+      src="https://google.com/image.jpg"
+    />
+    <p>
+      FC Barcelona
+    </p>
+  </div>
+</div>
+`;
